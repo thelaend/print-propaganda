@@ -8,6 +8,10 @@ THE LÄND Propaganda for regular 2D Printing (inofficial)
 + The [Gueda](https://www.1001freefonts.com/gudea.font) Font is used sometimes...
 + The [Garamont Amsterdam Regular](https://fontsgeek.com/fonts/Garamont-Amsterdam-BQ-Regular) Font is used for *Baden Württemberg*.
 
- Beispiele:
+ Nice to knöw:
+--------------
+There is a Makefile to create PDF's and PNG's using ``inkscape`` in the root of this repo.
+
+ Some signs:
 -------------
 ![Nett hier](nett_hier.svg)
