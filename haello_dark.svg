@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 1122.5 793.7"
    id="svg86"
-   sodipodi:docname="halloe_dark.svg"
+   sodipodi:docname="haello_dark.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0999107"
-     inkscape:cx="797.33745"
-     inkscape:cy="683.69186"
+     inkscape:cx="797.33746"
+     inkscape:cy="683.69187"
      inkscape:window-width="3834"
      inkscape:window-height="2071"
      inkscape:window-x="3840"
@@ -55,21 +55,21 @@
      inkscape:label="inhalt"
      sodipodi:insensitive="true">
     <text
-       x="125.1495"
-       y="423.4162"
+       x="56.299828"
+       y="422.98764"
        font-family="Lato"
-       font-size="271.46px"
+       font-size="314.317px"
        letter-spacing="0px"
-       stroke-width="6.78659"
+       stroke-width="7.85803"
        word-spacing="0px"
        style="line-height:1.25;fill:#ffff00"
        xml:space="preserve"
        id="text6"><tspan
-         x="125.1495"
-         y="423.4162"
+         x="56.299828"
+         y="422.98764"
          font-family="'Referenz Grotesk'"
          font-weight="bold"
-         stroke-width="6.78659"
+         stroke-width="7.85803"
          id="tspan4"
          style="fill:#ffff00">HÄLLO</tspan></text>
     <g
@@ -220,31 +220,31 @@
         <polygon
            class="cls-1"
            transform="translate(89.984,319.73)"
-           points="516.6,169.14 521.83,169.14 521.83,150.47 517.08,150.47 517.08,161.11 516.71,161.11 510.73,150.47 505.48,150.47 505.48,169.14 510.23,169.14 510.23,158.58 510.6,158.58 "
+           points="517.08,161.11 516.71,161.11 510.73,150.47 505.48,150.47 505.48,169.14 510.23,169.14 510.23,158.58 510.6,158.58 516.6,169.14 521.83,169.14 521.83,150.47 517.08,150.47 "
            id="polygon62"
            style="fill:#ffff00" />
         <polygon
            class="cls-1"
            transform="translate(89.984,319.73)"
-           points="401.19,154.57 406.31,154.57 406.31,169.14 411.3,169.14 411.3,154.57 416.42,154.57 416.42,150.47 401.19,150.47 "
+           points="411.3,154.57 416.42,154.57 416.42,150.47 401.19,150.47 401.19,154.57 406.31,154.57 406.31,169.14 411.3,169.14 "
            id="polygon64"
            style="fill:#ffff00" />
         <polygon
            class="cls-1"
            transform="translate(89.984,319.73)"
-           points="467.14,169.14 479.74,169.14 479.74,164.93 472.11,164.93 472.11,150.47 467.14,150.47 "
+           points="472.11,150.47 467.14,150.47 467.14,169.14 479.74,169.14 479.74,164.93 472.11,164.93 "
            id="polygon66"
            style="fill:#ffff00" />
         <polygon
            class="cls-1"
            transform="translate(89.984,319.73)"
-           points="441.48,169.14 454.48,169.14 454.48,165.35 446.44,165.35 446.44,161.64 452.87,161.64 452.87,157.86 446.44,157.86 446.44,154.25 452.87,154.25 452.87,150.47 441.48,150.47 "
+           points="446.44,161.64 452.87,161.64 452.87,157.86 446.44,157.86 446.44,154.25 452.87,154.25 452.87,150.47 441.48,150.47 441.48,169.14 454.48,169.14 454.48,165.35 446.44,165.35 "
            id="polygon68"
            style="fill:#ffff00" />
         <polygon
            class="cls-1"
            transform="translate(89.984,319.73)"
-           points="431.51,169.14 436.47,169.14 436.47,150.47 431.51,150.47 431.51,157.7 425.85,157.7 425.85,150.47 420.89,150.47 420.89,169.14 425.85,169.14 425.85,161.91 431.51,161.91 "
+           points="431.51,157.7 425.85,157.7 425.85,150.47 420.89,150.47 420.89,169.14 425.85,169.14 425.85,161.91 431.51,161.91 431.51,169.14 436.47,169.14 436.47,150.47 431.51,150.47 "
            id="polygon70"
            style="fill:#ffff00" />
         <path
