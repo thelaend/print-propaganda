@@ -17,4 +17,4 @@ There is a Makefile to create PDF's and PNG's using ``inkscape`` in the root of 
 ![Nett hier](nett_hier.svg)
 ![Willkommen in THE LÄND](willkommen_in_the_laend.svg)
 ![HÄLO dark themed](haello_dark.svg)
-![HÄLO](haelo.svg)
+![HÄLO](haello.svg)
